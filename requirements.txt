@@ -1,0 +1,8 @@
+Flask
+openai
+python-dotenv
+PyPDF2
+requests
+supabase
+redis
+celery
